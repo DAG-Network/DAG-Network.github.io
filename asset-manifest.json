@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df58e1ef.css",
+    "main.js": "/static/js/main.ae5432ca.js",
+    "static/js/787.28525a86.chunk.js": "/static/js/787.28525a86.chunk.js",
+    "static/media/logo.png": "/static/media/logo.59c761ffac15c0b7e1eb.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/banner.png": "/static/media/banner.daa734809388d292d0ca.png",
+    "static/media/roadmap-backgroung.png": "/static/media/roadmap-backgroung.bdf20f63ee1f949120d9.png",
+    "static/media/judge.png": "/static/media/judge.0f85528652f4da5cddd2.png",
+    "static/media/contractor.png": "/static/media/contractor.79c1cf82a6016107cf2b.png",
+    "static/media/hired.png": "/static/media/hired.d750384b1608083b48ab.png",
+    "static/media/roadmap.png": "/static/media/roadmap.366a33ed8814d8bec71f.png",
+    "static/media/tkn1.png": "/static/media/tkn1.76c4b8b4265afd5ad6a2.png",
+    "index.html": "/index.html",
+    "main.df58e1ef.css.map": "/static/css/main.df58e1ef.css.map",
+    "main.ae5432ca.js.map": "/static/js/main.ae5432ca.js.map",
+    "787.28525a86.chunk.js.map": "/static/js/787.28525a86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df58e1ef.css",
+    "static/js/main.ae5432ca.js"
+  ]
+}
